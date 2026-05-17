@@ -67,6 +67,7 @@ SQL Injection
 <br>
 - How server-side vulnerabilities are tested safely in lab environments
 <br><br>
+
 ## Disclaimer
 <br>
 This repository is created for educational and ethical learning purposes only.
