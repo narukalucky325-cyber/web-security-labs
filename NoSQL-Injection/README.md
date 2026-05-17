@@ -1,4 +1,5 @@
 # NoSQL Injection Notes
+I explain what i understand ....
 <br><br>
 ## What is NoSQL Injection?
 <br>
