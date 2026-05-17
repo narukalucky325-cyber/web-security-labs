@@ -1,4 +1,5 @@
 # Web Security Labs
+
 <br><br>
 A collection of my web security learning journey, PortSwigger lab practice, NoSQL Injection notes, payloads, Burp Suite testing, and cybersecurity writeups.
 <br><br>
@@ -9,9 +10,6 @@ Author - Lucky Naruka
 This repository documents my practical cybersecurity learning and hands-on web security practice from platforms like PortSwigger Web Security Academy.
 <br><br>
 
-Instead of uploading very long notes in a single file, I organize my learning into separate lab writeups, payload collections, screenshots, and notes folders.
-<br><br>
-
 ## Current Focus
 - Server-Side Vulnerabilities
 - NoSQL Injection Labs
@@ -20,12 +18,12 @@ Instead of uploading very long notes in a single file, I organize my learning in
 <br><br>
 
 ## Topics Covered
-- NoSQL Injection
 - SQL Injection
 - Authentication Vulnerabilities
 - Access Control
 - File Path Traversal
 - Server-Side Request Forgery (SSRF)
+- NoSQL Injection
 - Web Application Security Basics
 <br><br>
 
