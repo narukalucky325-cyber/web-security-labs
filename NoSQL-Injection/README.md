@@ -41,13 +41,12 @@ Example:
 ```
 This payload may return the first valid user from the database.
 <br>
-Tools Used
+##Tools Used
 <br>
-Burp Suite <br>
-Firefox Developer Tools <br>
-Kali Linux
+--Burp Suite <br>
+--Firefox Developer Tools <br>
+--Kali Linux
 <br><br>
-
 ###What I Learned
 <br>
 --How NoSQL Injection vulnerabilities work <br>
