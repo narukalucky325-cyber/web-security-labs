@@ -53,10 +53,8 @@ SQL Injection
 ' OR '1'='1
 <br>
 ```
-
 ## What I Learned
 <br>
-
 - How web applications communicate with servers
 <br>
 - How vulnerable inputs affect backend databases
@@ -69,10 +67,8 @@ SQL Injection
 <br>
 - How server-side vulnerabilities are tested safely in lab environments
 <br><br>
-
 ## Disclaimer
 <br>
 This repository is created for educational and ethical learning purposes only.
 <br><br>
-
 All testing and practice are performed only on legal lab environments such as PortSwigger Web Security Academy.
