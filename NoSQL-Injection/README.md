@@ -1,16 +1,11 @@
 # NoSQL Injection Notes
-# NoSQL Injection Notes
 <br><br>
-
 ## What is NoSQL Injection?
 <br>
-
 NoSQL Injection is a web security vulnerability where an attacker manipulates database queries in NoSQL databases such as MongoDB.
 <br><br>
-
 It happens when user input is not properly validated or sanitized before being used in backend database queries.
 <br><br>
-
 ## Common Causes
 <br>
 - Improper input validation
