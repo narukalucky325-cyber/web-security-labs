@@ -37,7 +37,7 @@ Authentication Bypass
 Attackers can bypass login forms by modifying JSON values and abusing MongoDB operators.
 Example:
 {"username":{"$ne":null},"password":{"$ne":null}}
-<br>
+
 ```
 This payload may return the first valid user from the database.
 <br>
@@ -64,8 +64,5 @@ Kali Linux
 --Modifying JSON request bodies <br>
 --Testing authentication systems <br>
 --Understanding MongoDB operators <br>
-Identifying insecure server-side behavior
+--Identifying insecure server-side behavior
 <br><br>
-
-```json
-{"username":{"$ne":null},"password":{"$ne":null}}
