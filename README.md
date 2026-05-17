@@ -1,66 +1,117 @@
-# web-security-labs
-A collection of my web security learning journey, PortSwigger lab practice, server-side vulnerability notes, payloads, Burp Suite testing, and cybersecurity writeups.
+# Web Security Labs
+<br><br>
 
-# Server-Side Vulnerabilities
-
-Hii, this repository contains my learning journey, notes, lab practice, payloads, and writeups related to Server-Side Vulnerabilities.
+A collection of my web security learning journey, PortSwigger lab practice, NoSQL Injection notes, payloads, Burp Suite testing, and cybersecurity writeups.
 <br><br>
 
 Author - Lucky Naruka
 <br><br>
 
 ## About
-In this repository, I document my practical learning from PortSwigger Web Security Academy and other cybersecurity platforms.
+This repository documents my practical cybersecurity learning and hands-on web security practice from platforms like PortSwigger Web Security Academy.
 <br><br>
 
-I share:
-- Notes
-- Lab writeups
-- Payloads used
-- Request/Response analysis
-- What I learned from each vulnerability
+Instead of uploading very long notes in a single file, I organize my learning into separate lab writeups, payload collections, screenshots, and notes folders.
+<br><br>
+
+## Current Focus
+- Server-Side Vulnerabilities
+- NoSQL Injection Labs
+- Authentication Testing
+- HTTP Request & Response Analysis
 <br><br>
 
 ## Topics Covered
 - NoSQL Injection
 - SQL Injection
 - Authentication Vulnerabilities
-- Access Control Vulnerabilities
+- Access Control
 - File Path Traversal
-- Command Injection
 - Server-Side Request Forgery (SSRF)
+- Web Application Security Basics
 <br><br>
 
 ## Tools Used
 - Burp Suite
 - Kali Linux
-- Browser Developer Tools
+- Firefox Developer Tools
 <br><br>
 
 ## Platform
 - PortSwigger Web Security Academy
 <br><br>
 
-## What I Learned
-- How client requests interact with servers
-- How vulnerable inputs can affect backend databases
-- How authentication and access control work
-- How to analyze HTTP requests and responses
-- How to test web applications safely in lab environments
-- How attackers exploit insecure server-side logic
+## Repository Structure
+<br>
+
+web-security-labs/
+<br>
+│
+<br>
+├── NoSQL-Injection/
+<br>
+│   ├── Lab-1.md
+<br>
+│   ├── Lab-2.md
+<br>
+│   ├── payloads.txt
+<br>
+│   └── screenshots/
+<br>
+│
+<br>
+├── Payloads/
+<br>
+│
+<br>
+├── Notes/
+<br>
+│
+<br>
+└── README.md
+<br><br>
 <br><br>
 
 ## Example Payloads
+<br>
 
-### NoSQL Injection Payloads
+### NoSQL Injection
+<br>
+
 ```json
 {"username":{"$ne":null},"password":{"$ne":null}}
-
-### SQL Injection Payloads
+<br>
+SQL Injection
+<br>
 ' OR '1'='1
-admin' --
+<br>
+```
 
-###Disclaimer
+## What I Learned
+<br>
 
-For educational purposes only.
-Practice performed only on legal lab environments.
+- How web applications communicate with servers
+<br>
+
+- How vulnerable inputs affect backend databases
+<br>
+
+- How authentication bypass works
+<br>
+
+- How HTTP requests and responses work
+<br>
+
+- How to use Burp Suite for web testing
+<br>
+
+- How server-side vulnerabilities are tested safely in lab environments
+<br><br>
+
+## Disclaimer
+<br>
+
+This repository is created for educational and ethical learning purposes only.
+<br><br>
+
+All testing and practice are performed only on legal lab environments such as PortSwigger Web Security Academy.
