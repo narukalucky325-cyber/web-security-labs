@@ -58,11 +58,6 @@ I share:
 <br><br>
 ### SQL Injection Payloads
 ' OR '1'='1
-<br><br>
-admin' --
-
-Disclaimer
-
-This repository is created for educational and ethical learning purposes only.
 <br>
-All testing and practice are performed only on legal lab environments such as PortSwigger Web Security Academy
+admin' --
+<br>
