@@ -60,3 +60,7 @@ I share:
 ' OR '1'='1
 admin' --
 
+###Disclaimer
+
+For educational purposes only.
+Practice performed only on legal lab environments.
